@@ -9,6 +9,7 @@ namespace VSTestWithGit
         public static void m1()
         {
             Console.WriteLine("ciao");
+            Console.WriteLine("secondo");
         }
     }
 }
