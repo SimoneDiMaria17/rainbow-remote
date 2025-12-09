@@ -1,13 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+
 namespace VSTestWithGit
 {
-    public class Program
+    public class GeneralFunction
     {
-         static void Main()
+        public static void m1()
         {
-            GeneralFunction.m1();
+            Console.WriteLine("ciao");
         }
     }
 }
